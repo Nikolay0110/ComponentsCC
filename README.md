@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/e1vny5x3fdx1fetb?svg=true)](https://ci.appveyor.com/project/Nikolay0110/componentscc)
+
 Страница интернет-магазина
 ===
 

@@ -27,5 +27,4 @@ export class Product extends Component {
     </div>
     )
   }
-
 }
